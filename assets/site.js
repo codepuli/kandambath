@@ -18,7 +18,7 @@ days:[
  {t:['ഡിസംബർ 4 വെള്ളി','December 4, Friday'],e:[
   ['4:30 PM','അക്ഷരശ്ലോകസദസ്സ് - കരിവെള്ളൂർ വനമാല അക്ഷരശ്ലോക സമിതി','Aksharasloka Sadassu – Payyanur Vanamala Aksharasloka Samithi'],
   ['7:00 PM','തിരുവാതിര - കണ്ടമ്പത്തറ തറവാട് മാതൃസംഘം','Thiruvathira – Kandambathara Tharavad Mathru Sangam'],
-  ['★ സ്നേഹാദരം','സ്നേഹാദരം: ശ്രീമതി പി.പി അർച്ചുന IAS (സബ് കളക്ടർ, വടകര)','Felicitation: Smt. P.P. Archana, IAS (Sub-Collector, Vadakara)'],
+  ['★ സ്നേഹാദരം','സ്നേഹാദരം: ശ്രീമതി പി.പി അർച്ചന IAS (സബ് കളക്ടർ, വടകര)','Felicitation: Smt. P.P. Archana, IAS (Sub-Collector, Vadakara)'],
   ['8:00 PM','കണ്ണിക്കൊരുമകൻ ദൈവത്തിന്റെ വെള്ളാട്ടം, തുടർന്ന് വിവിധതെയ്യക്കോലങ്ങളുടെ തോറ്റങ്ങൾ','Vellattam of Kannikkorumakan Daivam, followed by Thottangal of various Theyya-kolams'],
   ['11:45 PM','കണ്ണിക്കൊരുമകൻ ദൈവം','Kannikorumakan Daivam']]},
  {t:['ഡിസംബർ 5 ശനി','December 5, Saturday'],e:[
